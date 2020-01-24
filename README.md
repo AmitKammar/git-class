@@ -2,3 +2,5 @@
 This is master branch initial commit.
 
 First commit message.
+
+Second commit message.

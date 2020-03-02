@@ -7,3 +7,4 @@ Another changes from GitHub.
 Local changes by AK
 
 Correct commit - 1
+Bug commit

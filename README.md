@@ -11,3 +11,5 @@ Bug commit
 Correct commit - 2
 Issue fixed by another developer-1 (Hot-Fix)
 This line is added by develop branch
+
+new feature added by develop branch

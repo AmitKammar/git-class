@@ -17,3 +17,4 @@ new feature added by develop branch
 
 Awaiting person implementation
 Bug fix - 1
+Handling erroneous records
